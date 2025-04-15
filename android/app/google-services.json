@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "952167676532",
+    "project_id": "algorithm-visualization-7ee9c",
+    "storage_bucket": "algorithm-visualization-7ee9c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952167676532:android:62ac2ea528848a0517af21",
+        "android_client_info": {
+          "package_name": "com.example.algorithm_visualizer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDwLTjPnupVcxE-14CgKKfOjcQZXpKQiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
